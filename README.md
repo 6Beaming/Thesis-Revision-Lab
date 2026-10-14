@@ -18,6 +18,12 @@ Thesis Rewrite Lab is a full-stack academic writing workspace for improving a dr
 
 Tools like Grammarly offer broad writing assistance, including rewriting and citation support. This project focuses on a guided academic workflow: **analyze, practise, compare, and revise**. Its goal is to help writers understand their choices and stay in control of each change.
 
+## Demo
+
+[![Thesis Revision Lab: analyze writing, practise revisions, and apply an AI rewrite](docs/media/main-features.gif)](docs/media/demo.mp4)
+
+Click the preview or [watch the 2-minute demo video](docs/media/demo.mp4) (created with an LLM and [OpenVidStudio MCP](https://github.com/AnayDhawan/openvidstudio) using real browser captures and AI-generated narration.)
+
 ## Tech stack
 
 | Area | Technologies |
