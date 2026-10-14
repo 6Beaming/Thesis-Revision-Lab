@@ -20,9 +20,9 @@ Tools like Grammarly offer broad writing assistance, including rewriting and cit
 
 ## Demo
 
-[![Thesis Revision Lab: analyze writing, practise revisions, and apply an AI rewrite](docs/media/main-features.gif)](docs/media/demo.mp4)
+[![Thesis Revision Lab: analyze writing, practise revisions, and apply an AI rewrite](docs/media/main-features.gif)](https://youtu.be/noP8cnFwhuQ)
 
-Click the preview or [watch the 2-minute demo video](docs/media/demo.mp4) (created with an LLM and [OpenVidStudio MCP](https://github.com/AnayDhawan/openvidstudio) using real browser captures and AI-generated narration.)
+Click the preview to [watch the 2-minute demo video](https://youtu.be/noP8cnFwhuQ) (created with an LLM and [OpenVidStudio MCP](https://github.com/AnayDhawan/openvidstudio) using real browser captures and AI-generated narration.)
 
 ## Tech stack
 
